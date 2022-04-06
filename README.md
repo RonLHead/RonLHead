@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+#### My name is Ron L Headnd I am currently a Front End Engineering Student at the Turing School of Software and Design
+
 <img height="250" width="350" src="https://github-readme-stats.vercel.app/api?username=RonLHead&theme=tokyonight">
 
 <!--
