@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://github-readme-stats.vercel.app/api?username=RonLHead&hide=contribs,prs)
+<img height="250" width="350" src="https://github-readme-stats.vercel.app/api?username=RonLHead&hide=contribs,prs">
 
 <!--
 **RonLHead/RonLHead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
