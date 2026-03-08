@@ -1,30 +1,44 @@
-### Hi there 👋
+### 👋 Hi, I'm Ron L Head!
 
-#### My name is Ron L Head and I am a recent gradute from the Turing School of Software and Design!
+I am a creative and detail-oriented Software Engineer over three years of experience building fast, accessible, and scalable web applications using modern frameworks.
 
-As a front-end developer, I blend award-winning customer and technical service, useful aesthetics, and investigative analysis to solve user problems before they occur.
+Software development, user interface design, and mentoring inspire me. Committed to inclusivity, I write code with accessibility and coder empathy in mind. I hold an active Security+ certification and thrive in collaborative, fast-paced agile teams and management.
 
-I’ve pivoted my drive for excellence from 11 years in customer and technical support roles to software development. I saw the need for responsive applications that improve the user experience. I bring with me customer-centered issue resolution, empathetic communication, a team-player disposition, and the ability to multitask in a quick paced, metrics oriented environment.
+#### Contact:
+[![Static Badge](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge)](https://www.linkedin.com/in/ronlhead/)
+[![Static Badge](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:ronaldlhead@gmail.com)
 
-I approach projects systematically with strong TDD, clean and professional UX design, and thoughtful SRP. Colleagues seek me out for code reviews and debugging assistance because of my logic and friendly disposition. Committed to inclusivity, I write code with accessibility and coder empathy in mind.
+#### FrontEnd
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=%233178C6)
+![Static Badge](https://img.shields.io/badge/JavaScript(ES6)-%23EC2F5D?style=for-the-badge&logo=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E14B27?style=for-the-badge&logo=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS3-%23663399?style=for-the-badge&logo=%23663399)
+![Static Badge](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=%2306B6D4)
 
-- 🔭 I’m currently working on [NYT News Reader](https://github.com/RonLHead/rlh-news-reader-ts)
-- 🌱 I’m currently learning JavaScript algorithms and data structures
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/ronlhead/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Outdoor Meanderer | Pencil Sketcher | MCU and Microbrew Enthusiast
+#### State & Data
+![Static Badge](https://img.shields.io/badge/ReduxToolkit-%23764ABC?style=for-the-badge&logo=%23764ABC)
+![Static Badge](https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=%23E10098)
+![Static Badge](https://img.shields.io/badge/REST-white?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=%23000000)
 
-<!--
-**RonLHead/RonLHead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Testing & Quality
+![Static Badge](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=%23C21325)
+![Static Badge](https://img.shields.io/badge/React%20Testing%20Library-%2361DAFB?style=for-the-badge&logo=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/TDD-%230088CC?style=for-the-badge&logo=%230088CC)
+![Static Badge](https://img.shields.io/badge/CI%2FCD-%23FF4154?style=for-the-badge&logo=%23FF4154)
 
-Here are some ideas to get you started:
+#### Architecture & Performance
+![Static Badge](https://img.shields.io/badge/Component%20Driven%20Design-%23DB7093?style=for-the-badge&logo=%23DB7093)
+![Static Badge](https://img.shields.io/badge/Section%20508-%23F68212?style=for-the-badge&logo=%23F68212)
+![Static Badge](https://img.shields.io/badge/WCAG%202.2-%2343B1B0?style=for-the-badge&logo=%2343B1B0)
+![Static Badge](https://img.shields.io/badge/ARIA-%23007ACC?style=for-the-badge&logo=%23007ACC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=%23F05032)
+![Static Badge](https://img.shields.io/badge/npm%2Fyarn-%23CB3837?style=for-the-badge&logo=%23CB3837)
+![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=%23181717)
+![Static Badge](https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=%230052CC)
+![Static Badge](https://img.shields.io/badge/Vite-%239135FF?style=for-the-badge&logo=%239135FF)
+
+
