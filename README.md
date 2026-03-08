@@ -14,7 +14,7 @@ I approach projects systematically with strong TDD, clean and professional UX de
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Outdoor Meanderer | Pencil Sketcher | MCU and Microbrew Enthusiast
 
-<img height="250" width="350" src="https://github-readme-stats.vercel.app/api?username=RonLHead&theme=tokyonight">
+<img height="250" width="350" src="https://github-readme-stats.vercel.app/apiRonLHead&theme=tokyonight">
 
 <!--
 **RonLHead/RonLHead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
