@@ -30,7 +30,7 @@ Software development, user interface design, and mentoring inspire me. Committed
 [![Static Badge](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=%23C21325)](https://jestjs.io/)
 [![Static Badge](https://img.shields.io/badge/React%20Testing%20Library-%2361DAFB?style=for-the-badge&logo=%2361DAFB)](https://github.com/testing-library/react-testing-library)
 [![Static Badge](https://img.shields.io/badge/TDD-%230088CC?style=for-the-badge&logo=%230088CC)](https://en.wikipedia.org/wiki/Test-driven_development)
-[![Static Badge](https://img.shields.io/badge/CI%2FCD-%23FF4154?style=for-the-badge&logo=%23FF4154)](https://en.wikipedia.org/wiki/Continuous_integration)
+[![Static Badge](https://img.shields.io/badge/CI%2FCD-%23FF4154?style=for-the-badge&logo=%23FF4154)](https://en.wikipedia.org/wiki/CI/CD)
 
 #### Architecture & Performance
 [![Static Badge](https://img.shields.io/badge/Component%20Driven%20Design-%23DB7093?style=for-the-badge&logo=%23DB7093)](https://www.componentdriven.org/)
