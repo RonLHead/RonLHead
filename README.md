@@ -9,36 +9,39 @@ Software development, user interface design, and mentoring inspire me. Committed
 [![Static Badge](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:ronaldlhead@gmail.com)
 
 #### FrontEnd
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=%233178C6)
-![Static Badge](https://img.shields.io/badge/JavaScript(ES6)-%23EC2F5D?style=for-the-badge&logo=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/HTML5-%23E14B27?style=for-the-badge&logo=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS3-%23663399?style=for-the-badge&logo=%23663399)
-![Static Badge](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=%2306B6D4)
+[![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=%2361DAFB)](https://react.dev/)
+[![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=%233178C6)](https://www.typescriptlang.org/)
+[![Static Badge](https://img.shields.io/badge/JavaScript(ES6)-%23EC2F5D?style=for-the-badge&logo=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Static Badge](https://img.shields.io/badge/HTML5-%23E14B27?style=for-the-badge&logo=%23E34F26)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![Static Badge](https://img.shields.io/badge/CSS3-%23663399?style=for-the-badge&logo=%23663399)](https://www.css3.info/)
+[![Static Badge](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=%2306B6D4)](https://tailwindcss.com/)
+
+#### Backend
+[![Static Badge](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge)](https://www.python.org/)
 
 #### State & Data
-![Static Badge](https://img.shields.io/badge/ReduxToolkit-%23764ABC?style=for-the-badge&logo=%23764ABC)
-![Static Badge](https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=%23E10098)
-![Static Badge](https://img.shields.io/badge/REST-white?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=%23000000)
+[![Static Badge](https://img.shields.io/badge/ReduxToolkit-%23764ABC?style=for-the-badge&logo=%23764ABC)](https://redux-toolkit.js.org/)
+[![Static Badge](https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=%23E10098)](https://graphql.org/)
+[![Static Badge](https://img.shields.io/badge/REST-white?style=for-the-badge)](https://restfulapi.net/)
+[![Static Badge](https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=%23000000)](https://www.json.org/json-en.html)
 
 #### Testing & Quality
-![Static Badge](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=%23C21325)
-![Static Badge](https://img.shields.io/badge/React%20Testing%20Library-%2361DAFB?style=for-the-badge&logo=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/TDD-%230088CC?style=for-the-badge&logo=%230088CC)
-![Static Badge](https://img.shields.io/badge/CI%2FCD-%23FF4154?style=for-the-badge&logo=%23FF4154)
+[![Static Badge](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=%23C21325)](https://jestjs.io/)
+[![Static Badge](https://img.shields.io/badge/React%20Testing%20Library-%2361DAFB?style=for-the-badge&logo=%2361DAFB)](https://github.com/testing-library/react-testing-library)
+[![Static Badge](https://img.shields.io/badge/TDD-%230088CC?style=for-the-badge&logo=%230088CC)](https://en.wikipedia.org/wiki/Test-driven_development)
+[![Static Badge](https://img.shields.io/badge/CI%2FCD-%23FF4154?style=for-the-badge&logo=%23FF4154)](https://en.wikipedia.org/wiki/Continuous_integration)
 
 #### Architecture & Performance
-![Static Badge](https://img.shields.io/badge/Component%20Driven%20Design-%23DB7093?style=for-the-badge&logo=%23DB7093)
-![Static Badge](https://img.shields.io/badge/Section%20508-%23F68212?style=for-the-badge&logo=%23F68212)
-![Static Badge](https://img.shields.io/badge/WCAG%202.2-%2343B1B0?style=for-the-badge&logo=%2343B1B0)
-![Static Badge](https://img.shields.io/badge/ARIA-%23007ACC?style=for-the-badge&logo=%23007ACC)
+[![Static Badge](https://img.shields.io/badge/Component%20Driven%20Design-%23DB7093?style=for-the-badge&logo=%23DB7093)](https://www.componentdriven.org/)
+[![Static Badge](https://img.shields.io/badge/Section%20508-%23F68212?style=for-the-badge&logo=%23F68212)](https://www.section508.gov/)
+[![Static Badge](https://img.shields.io/badge/WCAG%202.2-%2343B1B0?style=for-the-badge&logo=%2343B1B0)](https://www.w3.org/WAI/standards-guidelines/wcag/)
+[![Static Badge](https://img.shields.io/badge/ARIA-%23007ACC?style=for-the-badge&logo=%23007ACC)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 
 #### Tools
-![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=%23F05032)
-![Static Badge](https://img.shields.io/badge/npm%2Fyarn-%23CB3837?style=for-the-badge&logo=%23CB3837)
-![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=%23181717)
-![Static Badge](https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=%230052CC)
-![Static Badge](https://img.shields.io/badge/Vite-%239135FF?style=for-the-badge&logo=%239135FF)
+[![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=%23F05032)](https://git-scm.com/)
+[![Static Badge](https://img.shields.io/badge/npm%2Fyarn-%23CB3837?style=for-the-badge&logo=%23CB3837)](https://www.npmjs.com/)
+[![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=%23181717)](https://github.com/)
+[![Static Badge](https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=%230052CC)](https://www.atlassian.com/software/jira)
+[![Static Badge](https://img.shields.io/badge/Vite-%239135FF?style=for-the-badge&logo=%239135FF)](https://vite.dev/)
 
 
