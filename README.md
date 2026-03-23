@@ -18,6 +18,7 @@ Software development, user interface design, and mentoring inspire me. Committed
 
 #### Backend
 [![Static Badge](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge)](https://www.python.org/)
+[![Static Badge](https://img.shields.io/badge/DJANGO-%23092E20?style=for-the-badge)](https://www.djangoproject.com/)
 
 #### State & Data
 [![Static Badge](https://img.shields.io/badge/ReduxToolkit-%23764ABC?style=for-the-badge&logo=%23764ABC)](https://redux-toolkit.js.org/)
